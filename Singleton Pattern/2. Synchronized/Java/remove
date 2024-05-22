@@ -1,0 +1,5 @@
+#!/bin/bash
+
+rm Singleton.class
+rm Main.class
+rm SingletonDemo.jar

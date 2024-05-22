@@ -1,0 +1,4 @@
+#!/bin/bash
+
+javac Singleton.java Main.java
+jar cvfm SingletonDemo.jar Manifest.txt Singleton.class Main.class
