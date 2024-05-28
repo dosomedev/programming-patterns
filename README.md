@@ -14,4 +14,4 @@ Whether you're a seasoned developer or just starting out, this repository empowe
 Ready to unlock the power of programming patterns? Dive in and start coding! This introduction uses strong verbs, highlights the benefits for developers, and adds a touch of excitement to learning about patterns. You are free to copy and use all the codes you can find here.
 
 # Information
-Head over to my YouTube channel [@DoSomeDev](https://youtube.com/@DoSomeDev) or website [www.dosomedev.com](https://www.dosomedev.com) for in-depth explanations and tutorials on every code snippet here. You'll get a clear understanding of how these patterns work and how to implement them effectively in your own projects.
+Head over to my [YouTube channel @DoSomeDev](https://youtube.com/@DoSomeDev) or website [www.dosomedev.com](https://www.dosomedev.com) for in-depth explanations and tutorials on every code snippet here. You'll get a clear understanding of how these patterns work and how to implement them effectively in your own projects.
