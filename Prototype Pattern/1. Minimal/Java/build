@@ -1,0 +1,4 @@
+#!/bin/bash
+
+javac *.java
+jar cvfm PrototypeDemo.jar Manifest.txt *.class
