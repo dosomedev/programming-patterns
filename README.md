@@ -1,5 +1,5 @@
 # Welcome
-Welcome to the **Do Some Dev** code repository. Here, you can find all the **Java** and **Python** code examples from my YouTube videos and from my website, meticulously crafted to bring concepts to life. Dive into different folders and explore a treasure of:
+Welcome to the **Do Some Dev** code repository for Design Patterns. Here, you can find all the **Java** and **Python** code examples from my YouTube videos and from my website, meticulously crafted to bring concepts to life. Dive into different folders and explore a treasure of:
 * Ready-to-use code snippets
 * Well documented examples
 * Clear explanations
