@@ -15,3 +15,15 @@ Ready to unlock the power of programming patterns? Dive in and start coding! Thi
 
 # Information
 Head over to my [YouTube channel @DoSomeDev](https://youtube.com/@DoSomeDev) or website [www.dosomedev.com](https://www.dosomedev.com) for in-depth explanations and tutorials on every code snippet here. You'll get a clear understanding of how these patterns work and how to implement them effectively in your own projects.
+
+# Find Me Here
+[![WebSite](./img/website.svg 'Link to dosomedev.com')](https://dosomedev.com)
+[![YouTube](./img/youtube.svg 'Link to YouTube')](https://www.youtube.com/@dosomedev)
+[![X](./img/x.svg 'Link to X')](https://x.com/DoSomeDev)
+[![GitHub](./img/github.svg 'Link to GitHub')](https://github.com/dosomedev)
+[![Facebook](./img/facebook.svg 'Link to Facebook')](https://facebook.com/dsd.dosomedev)
+[![Instagram](./img/instagram.svg 'Link to Instagram')](https://instagram.com/dosomedev)
+[![Threads](./img/threads.svg 'Link to Threads')](https://threads.net/@dosomedev)
+[![TikTok](./img/tiktok.svg 'Link to TikTok')](https://tiktok.com/@dosomedev)
+[![Tumblr](./img/tumblr.svg 'Link to Tumblr')](https://tumblr.com/dosomedev)
+
