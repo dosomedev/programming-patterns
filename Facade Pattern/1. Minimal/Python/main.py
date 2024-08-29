@@ -8,8 +8,8 @@ def main():
     print()
 
     # Create subsystem classes.
-    subsystemClass1 = SubsystemClass1
-    subsystemClass2 = SubsystemClass2
+    subsystemClass1 = SubsystemClass1()
+    subsystemClass2 = SubsystemClass2()
 
     # Create facade.
     facade = Facade(subsystemClass1, subsystemClass2)

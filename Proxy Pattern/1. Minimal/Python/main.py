@@ -4,7 +4,7 @@ def main():
     print("Proxy Pattern in Python")
     print("-----------------------")
     print()
-    
+
     print("Create proxy instance.")
     subject = ProxySubject()
 

@@ -1,6 +1,6 @@
 from class_adapter import ClassAdapter
-from adaptee import Adaptee
 from object_adapter import ObjectAdapter
+from adaptee import Adaptee
 
 def main():
     print("Adapter Pattern in Python")

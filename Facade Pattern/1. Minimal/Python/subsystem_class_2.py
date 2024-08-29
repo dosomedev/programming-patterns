@@ -1,3 +1,3 @@
 class SubsystemClass2:
-    def operationTwo():
+    def operationTwo(self):
         print("Subsystem class 2 calls operation two.")
