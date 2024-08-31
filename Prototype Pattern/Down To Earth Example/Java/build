@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd prototypepattern-app
+mvn clean package

@@ -1,13 +1,15 @@
-public class ConcretePrototype2 implements Prototype {
+package com.dosomedev;
+
+public class ConcretePrototype1 implements Prototype {
     private String value;
 
-    public ConcretePrototype2(String value) {
+    public ConcretePrototype1(String value) {
         this.value = value;
     }
 
     @Override
     public Prototype clone() {
-        return new ConcretePrototype2(this.value);
+        return new ConcretePrototype1(this.value);
     }
 
     @Override

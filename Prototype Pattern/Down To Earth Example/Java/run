@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd prototypepattern-app/target
+java -jar ./prototypepattern-app-1.0.jar
