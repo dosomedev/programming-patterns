@@ -14,11 +14,11 @@ Whether you're a seasoned developer or just starting out, this repository empowe
 Ready to unlock the power of programming patterns? Dive in and start coding! This introduction uses strong verbs, highlights the benefits for developers, and adds a touch of excitement to learning about patterns. You are free to copy and use all the codes you can find here.
 
 # Information
-Head over to my [YouTube channel @DoSomeDev](https://youtube.com/@DoSomeDev) or website [www.dosomedev.com](https://www.dosomedev.com) for in-depth explanations and tutorials on every code snippet here. You'll get a clear understanding of how these patterns work and how to implement them effectively in your own projects.
+Head over to my [YouTube channel @DoSomeDev](https://youtube.com/@DoSomeDev?sub_confirmation=1) or website [www.dosomedev.com](https://www.dosomedev.com) for in-depth explanations and tutorials on every code snippet here. You'll get a clear understanding of how these patterns work and how to implement them effectively in your own projects.
 
 # Find Me Here
 [![WebSite](./img/website.svg 'Link to dosomedev.com')](https://dosomedev.com)
-[![YouTube](./img/youtube.svg 'Link to YouTube')](https://www.youtube.com/@dosomedev)
+[![YouTube](./img/youtube.svg 'Link to YouTube')](https://www.youtube.com/@dosomedev?sub_confirmation=1)
 [![X](./img/x.svg 'Link to X')](https://x.com/DoSomeDev)
 [![GitHub](./img/github.svg 'Link to GitHub')](https://github.com/dosomedev)
 [![Facebook](./img/facebook.svg 'Link to Facebook')](https://facebook.com/dsd.dosomedev)
