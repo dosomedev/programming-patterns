@@ -4,26 +4,27 @@ Welcome to the **Do Some Dev** code repository for Design Patterns. Here, you ca
 * Well documented examples
 * Clear explanations
 
-# Goal
-Whether you're a seasoned developer or just starting out, this repository empowers you to:
-* Master design principles
-* Write cleaner, more efficient code
-* Boost your problem-solving skills
+# List of Videos
 
-# Action
-Ready to unlock the power of programming patterns? Dive in and start coding! This introduction uses strong verbs, highlights the benefits for developers, and adds a touch of excitement to learning about patterns. You are free to copy and use all the codes you can find here.
+| Topic | Links |
+| :--- | :--- |
+| **Visitor Pattern in Java and Python** <br> [![Link to YouTube](https://github.com/dosomedev/programming-patterns/blob/main/img/visitor-pattern.png?raw=true)](https://www.youtube.com/watch?v=ZWRibLXyPUc&list=PLX1UpgTeV9a7HfAUCSqF9IGBsgjsHxY8-&index=2) | - [Code Example](./Visitor%20Pattern) <br> - [YouTube Video](https://www.youtube.com/watch?v=ZWRibLXyPUc&list=PLX1UpgTeV9a7HfAUCSqF9IGBsgjsHxY8-&index=2) |
 
-# Information
-Head over to my [YouTube channel @DoSomeDev](https://youtube.com/@DoSomeDev?sub_confirmation=1) or website [www.dosomedev.com](https://www.dosomedev.com) for in-depth explanations and tutorials on every code snippet here. You'll get a clear understanding of how these patterns work and how to implement them effectively in your own projects.
+| **Facade Pattern in Java and Python** <br> [![Link to YouTube](https://github.com/dosomedev/programming-patterns/blob/main/img/facade-pattern.png?raw=true)](https://www.youtube.com/watch?v=7nhWHwotuV8&list=PLX1UpgTeV9a7HfAUCSqF9IGBsgjsHxY8-&index=3) | - [Code Example](./Facade%20Pattern) <br> - [YouTube Video](https://www.youtube.com/watch?v=7nhWHwotuV8&list=PLX1UpgTeV9a7HfAUCSqF9IGBsgjsHxY8-&index=3) |
 
-# Find Me Here
-[![WebSite](./img/website.svg 'Link to dosomedev.com')](https://dosomedev.com)
-[![YouTube](./img/youtube.svg 'Link to YouTube')](https://www.youtube.com/@dosomedev?sub_confirmation=1)
-[![X](./img/x.svg 'Link to X')](https://x.com/DoSomeDev)
-[![GitHub](./img/github.svg 'Link to GitHub')](https://github.com/dosomedev)
-[![Facebook](./img/facebook.svg 'Link to Facebook')](https://facebook.com/dsd.dosomedev)
-[![Instagram](./img/instagram.svg 'Link to Instagram')](https://instagram.com/dosomedev)
-[![Threads](./img/threads.svg 'Link to Threads')](https://threads.net/@dosomedev)
-[![TikTok](./img/tiktok.svg 'Link to TikTok')](https://tiktok.com/@dosomedev)
-[![Tumblr](./img/tumblr.svg 'Link to Tumblr')](https://tumblr.com/dosomedev)
+| **Factory Pattern in Java and Python** <br> [![Link to YouTube](https://github.com/dosomedev/programming-patterns/blob/main/img/factory-pattern.png?raw=true)](https://www.youtube.com/watch?v=nz46e9DpBZU&list=PLX1UpgTeV9a7HfAUCSqF9IGBsgjsHxY8-&index=4) | - [Code Example](./Factory%20Pattern) <br> - [YouTube Video](https://www.youtube.com/watch?v=nz46e9DpBZU&list=PLX1UpgTeV9a7HfAUCSqF9IGBsgjsHxY8-&index=4) |
 
+| **Proxy Pattern in Java and Python** <br> [![Link to YouTube](https://github.com/dosomedev/programming-patterns/blob/main/img/proxy-pattern.png?raw=true)](https://www.youtube.com/watch?v=5vlfrJDfV1o&list=PLX1UpgTeV9a7HfAUCSqF9IGBsgjsHxY8-&index=5) | - [Code Example](./Proxy%20Pattern) <br> - [YouTube Video](https://www.youtube.com/watch?v=5vlfrJDfV1o&list=PLX1UpgTeV9a7HfAUCSqF9IGBsgjsHxY8-&index=5) |
+
+| **Decorator Pattern in Java and Python** <br> [![Link to YouTube](https://github.com/dosomedev/programming-patterns/blob/main/img/decorator-pattern.png?raw=true)](https://www.youtube.com/watch?v=B-U0rGv2MzM&list=PLX1UpgTeV9a7HfAUCSqF9IGBsgjsHxY8-&index=6) | - [Code Example](./Decorator%20Pattern) <br> - [YouTube Video](https://www.youtube.com/watch?v=B-U0rGv2MzM&list=PLX1UpgTeV9a7HfAUCSqF9IGBsgjsHxY8-&index=6) |
+
+| **Adapter Pattern in Java and Python** <br> [![Link to YouTube](https://github.com/dosomedev/programming-patterns/blob/main/img/adaptor-pattern.png?raw=true)](https://www.youtube.com/watch?v=SBpOM4kh5zQ&list=PLX1UpgTeV9a7HfAUCSqF9IGBsgjsHxY8-&index=7) | - [Code Example](./Adapter%20Pattern) <br> - [YouTube Video](https://www.youtube.com/watch?v=SBpOM4kh5zQ&list=PLX1UpgTeV9a7HfAUCSqF9IGBsgjsHxY8-&index=7) |
+
+| **Singleton Pattern in Java and Python** <br> [![Link to YouTube](https://github.com/dosomedev/programming-patterns/blob/main/img/singleton-pattern.png?raw=true)](https://www.youtube.com/watch?v=z3Z8aSUk3J0&list=PLX1UpgTeV9a7HfAUCSqF9IGBsgjsHxY8-&index=8) | - [Code Example](./Singleton%20Pattern) <br> - [YouTube Video](https://www.youtube.com/watch?v=z3Z8aSUk3J0&list=PLX1UpgTeV9a7HfAUCSqF9IGBsgjsHxY8-&index=8) |
+
+| **Abstract Factory Pattern in Java and Python** <br> [![Link to YouTube](https://github.com/dosomedev/programming-patterns/blob/main/img/abstract-factory-pattern.png?raw=true)](https://www.youtube.com/watch?v=zbb7G_a8bKM&list=PLX1UpgTeV9a7HfAUCSqF9IGBsgjsHxY8-&index=9) | - [Code Example](./Abstract%20Factory%20Pattern) <br> - [YouTube Video](https://www.youtube.com/watch?v=zbb7G_a8bKM&list=PLX1UpgTeV9a7HfAUCSqF9IGBsgjsHxY8-&index=9) |
+
+| **Prototype Pattern in Java and Python** <br> [![Link to YouTube](https://github.com/dosomedev/programming-patterns/blob/main/img/prototype-pattern.png?raw=true)](https://www.youtube.com/watch?v=li_kjGYHZeE&list=PLX1UpgTeV9a7HfAUCSqF9IGBsgjsHxY8-&index=10) | - [Code Example](./Prototype%20Pattern) <br> - [YouTube Video](https://www.youtube.com/watch?v=li_kjGYHZeE&list=PLX1UpgTeV9a7HfAUCSqF9IGBsgjsHxY8-&index=10) |
+
+# Meet Me Here
+* [All my other channels](https://dosomedev.com/contact)
